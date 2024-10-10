@@ -1,0 +1,8 @@
+BudgetNest
+__pycache__
+.env
+node_modules
+coverage
+*.log
+*.db
+*.sqlite3
